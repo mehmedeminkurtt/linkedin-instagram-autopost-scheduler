@@ -1,0 +1,8 @@
+pandas
+Pillow
+instagrapi
+requests
+ttkbootstrap
+plyer
+moviepy
+openpyxl

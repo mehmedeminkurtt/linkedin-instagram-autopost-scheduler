@@ -1,0 +1,26 @@
+{
+  "app": {
+    "dataFile": "autopost.xlsx",
+    "tagsFile": "tags.txt",
+    "dryRun": false
+  },
+  "instagram": {
+    "enabled": true,
+    "username": "INSTAGRAM_USERNAME",
+    "password": "INSTAGRAM_PASSWORD"
+  },
+  "linkedin": {
+    "enabled": true,
+    "authorUrn": "urn:li:person:YOUR_PERSON_ID_OR_ORG_URN",
+    "accessToken": "LINKEDIN_ACCESS_TOKEN"
+  },
+  "templates": {
+    "template1": "template01.jpg",
+    "template2": "template02.jpg",
+    "transparentOverlay": "transparent.png"
+  },
+  "paths": {
+    "outputImagesDir": "resimler",
+    "outputVideosDir": "videolar"
+  }
+}
